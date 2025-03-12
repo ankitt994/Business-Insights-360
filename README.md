@@ -70,6 +70,13 @@ This project enables **CEOs, analysts, and stakeholders** to make smarter, data-
 ✔ **Demonstrates real-world data analytics skills** for business optimization  
 
 ---
+## Power BI Project
+
+Explore my Power BI project by clicking the link below:
+
+[Power BI Project Link](https://app.powerbi.com/links/rtpLKVnwnh?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+
+---
 
 ## 🔗 **Connect with Me**  
 💼 **LinkedIn**: [https://www.linkedin.com/in/ankittripathiii/]  
