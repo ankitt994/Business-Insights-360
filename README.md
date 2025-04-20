@@ -81,6 +81,8 @@ Explore my Power BI project by clicking the link below:
 ## 🔗 **Connect with Me**  
 💼 **LinkedIn**: [https://www.linkedin.com/in/ankittripathiii/]  
 📂 **GitHub**: [https://github.com/ankitt994]  
+📁 **Portfolio** 👉 (https://codebasics.io/portfolio/ANKIT-TRIPATHI)
+
 
 ---
 
