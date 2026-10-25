@@ -74,7 +74,7 @@ This project enables **CEOs, analysts, and stakeholders** to make smarter, data-
 
 Explore my Power BI project by clicking the link below:
 
-[Power BI Project Link]((https://app.powerbi.com/view?r=eyJrIjoiZmU1YjY5NWQtMTAyNC00Mjk1LThjNmYtZjYzOTcxOGRiMWMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+[Power BI Project Link](https://app.powerbi.com/view?r=eyJrIjoiZmU1YjY5NWQtMTAyNC00Mjk1LThjNmYtZjYzOTcxOGRiMWMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
